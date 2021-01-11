@@ -1,5 +1,12 @@
 title: napari documentation
 theme: jekyll-theme-slate
 logo: assets/logo.ico
+exclude:
+  - dev
+  - 0.4.0
+  - 0.3.8
+  - 0.3.7
 include:
-  - _*
+  - index.md
+  - assets
+  - _layouts
