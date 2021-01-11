@@ -1,3 +1,5 @@
 title: napari documentation
 theme: jekyll-theme-slate
 logo: assets/logo.ico
+include:
+  - _*
